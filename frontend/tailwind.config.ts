@@ -1,4 +1,4 @@
-import { generateColors } from "../frontend/src/app/constants/constants";
+import { generateColors } from "./src/constants/constants";
 import type { Config } from "tailwindcss";
 
 export default {

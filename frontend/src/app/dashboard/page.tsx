@@ -1,5 +1,5 @@
-import SheetsVisualizer from "../components/sheetsVisualizer/sheetsVisualizer";
-import UserComponent from "../components/userComponent/userComponent";
+import SheetsVisualizer from "../../components/sheetsVisualizer/sheetsVisualizer";
+import UserComponent from "../../components/userComponent/userComponent";
 
 export default function Dashboard (){
     return(
